@@ -1,3 +1,16 @@
+# REDUX
+
+This Repository have all the basics concepts and the best practices for using **REDUX** inside of the **REACT** application.
+
+1. We first using Redux with the **redux** along with **react-redux** library which can we get from `npm i redux react-redux`
+2. We also use REDUX with **class-based-components** That code is commented out inside of the `src/component/Counter.jsx` file.
+3. After that we uninstall the **redux** library with `npm uninstall redux` and use **redux-toolkit** instead. We can get it from `npm install @reduxjs/toolkit`.
+4. Currently the application is build with **redux-toolkit**
+
+<hr>
+
+This readme and this repository have all the basic understanding of **REDUX** and how we can use it in our **REACT** application
+
 ## STATE
 
 ### State in React Applications
